@@ -1,0 +1,15 @@
+#safron{
+    border: solid 1px;
+    height: 200px;
+    background-color: orangered;
+}
+#white{
+    border: solid 1px ;
+    height: 200px;
+    background-color: white;
+}
+#green{
+    border: solid 1px;
+    height: 200px;
+    background-color: green;
+}
